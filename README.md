@@ -24,3 +24,8 @@
   - Moving the striker with the bar 
   
     <img src="./ReadMeAssets/Pic7.jpg"  width="25%" height="25%">
+    
+    
+  - In addition to:
+    - 2 minutes timer 
+    - Appropriate bouncing off the boundaries of the board for both the striker and pucks
