@@ -27,5 +27,16 @@
     
     
   - In addition to:
-    - 2 minutes timer 
-    - Appropriate bouncing off the boundaries of the board for both the striker and pucks
+    - 2 minutes timer.
+    - Appropriate bouncing off the boundaries of the board for both the striker and pucks.
+    - Checking for putting an appropriate puck to continue turn.
+    - Checking for strikers fall in board pockets.
+    - Well organized code for readability, and applied the needed OOP concepts in game scripts.
+
+
+
+
+
+
+
+
