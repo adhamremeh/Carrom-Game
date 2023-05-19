@@ -2,4 +2,4 @@
 
 - First Page (Home) with simple GUI
 
-![](./ReadMe' 'Assets/1.png)
+![](./ReadMeAssets/1.png)
