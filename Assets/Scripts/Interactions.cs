@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class Interactions : MonoBehaviour
 {
-    private float countDown = 10;
+    private float countDown = 120;
 
     public Text Timer;
 
